@@ -1,3 +1,6 @@
+# **经作者授权后转载**
+> 原地址[Manim Tutorial CN](https://github.com/cai-hust/manim-tutorial-CN)
+
 <!-- TOC -->
 
 - [manim基础教程](#manim基础教程)
